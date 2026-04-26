@@ -1,4 +1,8 @@
+# 🚢 Titanic Survival Predictor
 
+🔗 **Live Demo:** [Click here to try the app](https://titanic-eda-ml-project-8j6mbycyjuqc6fozq6ij3i.streamlit.app/)
+
+---
 ---
 
 ## 📌 Project Overview
